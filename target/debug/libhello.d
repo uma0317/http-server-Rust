@@ -1,1 +1,1 @@
-/Users/yama/projects/rust/hello/target/debug/libhello.rmeta: /Users/yama/projects/rust/hello/src/lib.rs /Users/yama/projects/rust/hello/src/main.rs
+C:\Users\yuma\projects\rust\http-server-Rust\target\debug\libhello.rlib: C:\Users\yuma\projects\rust\http-server-Rust\src\lib.rs

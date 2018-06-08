@@ -1,0 +1,1 @@
+c:\Users\yuma\projects\rust\http-server-Rust\target\debug\libhello-41ea6dd1b2d99a0d.rmeta: c:\Users\yuma\projects\rust\http-server-Rust\src\lib.rs c:\Users\yuma\projects\rust\http-server-Rust\src\main.rs
